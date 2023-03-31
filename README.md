@@ -14,7 +14,7 @@ There are three major goals that we are working towards in this project which we
 
 Analysis in the notebooks can be visualized by running these notebooks: `drug_efficiency.ipynb` and `risk_profiling.ipynb` 
 
-## ## Setup the project environment:
+## Setup the project environment:
 
 Follow the below steps to setup the project to your local system:
 
