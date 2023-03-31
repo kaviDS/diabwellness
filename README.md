@@ -13,3 +13,17 @@ There are three major goals that we are working towards in this project which we
 ## How to run:
 
 Analysis in the notebooks can be visualized by running these notebooks: `drug_efficiency.ipynb` and `risk_profiling.ipynb` 
+
+## ## Setup the project environment:
+
+Follow the below steps to setup the project to your local system:
+
+1. Creat an account in "Github".
+2. Install "Git" software in your local system from the below link:
+
+3. After installing the Git, Clone the repository to your local system :
+
+    Step 1: Open the "Git Bash" and Check the current path by using the command "pwc" (Current working Directory) 
+            
+             $ pwd
+             /c/Users/DELL
