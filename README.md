@@ -51,8 +51,7 @@ Follow the below steps to setup the project on your local system:
 
 4. Create the conda environment:
 
-    Step 1: Install the Anaconda framework by using below link and Open the Anaconda Powershell Prompt.
-
+    Step 1: Install the Anaconda framework by using below link and Open the Anaconda Powershell Prompt:
             https://docs.anaconda.com/anaconda/install/windows/
 
     Step 2: Run the command "conda env create -f " and give the path of the file "environment.yml".
