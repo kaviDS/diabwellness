@@ -43,9 +43,7 @@ Follow the below steps to setup the project on your local system:
             $ pwd
             /c/Users/DELL/Inten
 
-    Step 4: Once you create a folder you can clone the repo to that "Inten" folder by using the Command "git clone".
-               => First go to github and copy the repo path that you want to clone 
-               => Then past the path in this command.
+    Step 4: Once you create a folder you can clone the repo to that "Inten" folder by using the Command "git clone". Copy the repo path that you want to clone and then paste the path in this below command.
     
             $ git clone https://github.com/diabwellness-ai/optimizerx-cdss.git
 
